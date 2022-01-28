@@ -26,7 +26,8 @@
            {"id": "NGA", "group": 24}, 
            {"id": "NLD", "group": 25}, 
            {"id": "NOR", "group": 26}, 
-           {"id": "PRT", "group": 27},
+           {"id": "PRT", "group": 27}, 
+           {"id": "PRY", "group": 28}, 
            {"id": "ROM", "group": 29}, 
            {"id": "SCO", "group": 30},
            {"id": "TUN", "group": 31}, 
@@ -127,7 +128,7 @@
       {"source": "NOR", "target": "SCO", "value": 3},
       {"source": "YUG", "target": "ITA", "value": 7},
       {"source": "YUG", "target": "JPN", "value": 2},
-
+      {"source": "PRY", "target": "MEX", "value": 1}
     ]
   
   }
